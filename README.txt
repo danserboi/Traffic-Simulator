@@ -1,5 +1,3 @@
-SERBOI FLOREA-DAN 335CB
-
 Modificarile majore aduse scheletului s-au efectuat in clasele IntersectionFactory, 
 IntersectionHandlerFactory, ReaderHandlerFactory.
 In clasa Pedestrians s-au adus mici modificari prin folosirea notifyAll pentru a notifica masinile 
